@@ -1,10 +1,13 @@
 import "./index.css";
 
 // @ts-ignore
+// spell-checker: disable-next-line
 import image1 from "../assets/Gemini_Generated_Image_nceq59nceq59nceq.jpeg";
 // @ts-ignore
+// spell-checker: disable-next-line
 import image2 from "../assets/Gemini_Generated_Image_oi2swyoi2swyoi2s.jpeg";
 // @ts-ignore
+// spell-checker: disable-next-line
 import image3 from "../assets/Gemini_Generated_Image_oi2swzoi2swzoi2s.jpeg";
 
 function imageComponent({ src, alt, width, height, ...attributes }) {
